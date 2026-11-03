@@ -4,7 +4,7 @@
 # 結果画像
 
 ![結果](result.png)
-- 工夫した点：トゥーンシェーダーにFresnelEffectとStepでEmissionに出力し、アニメ風のリムライトを加えました。
+- 工夫した点：トゥーンシェーダーにFresnelEffectとStepを加えEmissionに出力し、アニメ風のリムライトを加えました。
 
 # 進め方
 
